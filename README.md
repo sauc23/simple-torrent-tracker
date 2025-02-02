@@ -1,6 +1,6 @@
 # simple-torrent-tracker
 
-a simple bittorrent tracker built on cloudflare workers.
+a simple bittorrent tracker built on cloudflare workers
 
 ## quickstart
 
